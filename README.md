@@ -95,5 +95,8 @@ this difference and then prints an appropriate message concerning the winner.
 
 Again, if you are a front end candidate, show us some **bells-and-whistles!**
 
+What to do?  Follow the button into our Git repository, clone it, start a new branch with your name in
+the branch name and code away!
+
 Have fun.
 
