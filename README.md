@@ -56,8 +56,8 @@ as follows:
 - 3 - lizard
 - 4 - scissors
 
-and deduce an algorith to determine the winner, you or the computer!
-(**BIG HINT** modulo arithmatic)
+and deduce an algorithm to determine the winner, you or the computer!
+(**BIG HINT** modulus arithmatic)
 
 Build a method nameToNumber(name) that converts the string name into a 
 number between 0 and 4 as described above. This function should use a sequence of 
