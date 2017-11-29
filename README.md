@@ -71,8 +71,8 @@ Next, you should build a second method, numberToName(number) that converts
 a number in the range 0 to 4 into its corresponding name as a string. Again, we suggest 
 including a final clause that catches cases when number is not in the correct range. 
 
-Implement the first part of the main function rpsls(playerChoice).
-Design an intereactive session with the user of your computer game.
+Implement the first part of the main Class, function or module rockPaperSpock(playerChoice).
+Design an interactive session with the user of your computer game.
 It is ENTIRELY up to you how this is done.  If you are a candidate for
 our front end position, you may want to start giving use some visual
 **WOW!** starting about now!  The Python should be at least neat!
@@ -91,7 +91,7 @@ Specifically, compute the difference between compNumber and playerNumber using t
 you designed.
 
 Then write a closing method whose conditions test the various possible values of 
-this difference and then prints an appropriate message concerning the winner.
+this difference and then displays an appropriate message concerning the winner.
 
 Again, if you are a front end candidate, show us some **bells-and-whistles!**
 
