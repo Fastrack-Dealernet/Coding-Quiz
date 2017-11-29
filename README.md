@@ -57,12 +57,12 @@ as follows:
 - 4 - scissors
 
 and deduce an algorithm to determine the winner, you or the computer!
-(**BIG HINT** modulus arithmatic)
+(**BIG HINT** modulus arithmetic)
 
 Build a method nameToNumber(name) that converts the string name into a 
 number between 0 and 4 as described above. This function should use a sequence of 
 process controls of your choice. You can use conditions of the form name == 'paper', etc. to 
-distinguish the cases, switch/case constructs or positional arithmatic. your choice. 
+distinguish the cases, switch/case constructs or positional arithmetic. your choice. 
 
 Your code should also include a final clause that catches cases when name does not 
 match any of the five correct input strings and prints an appropriate error message. 
